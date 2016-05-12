@@ -1,0 +1,276 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+.logo{
+    margin-top:5px;
+    margin-bottom:15px;
+    margin-right:25px;
+    color:lightgreen;
+    font-family:'Comic Sans MS';
+}
+
+.logopicture{
+    width:40%;
+}
+.black{
+    color:black;
+}
+.transparant{
+    background-color:transparent;
+}
+
+.navbar-header{
+    margin-right:-85px;
+}
+
+.navbar-brand{
+    margin-right:-85px;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+/*.picturebox{
+    height:350px;
+}*/
+
+.smallHeader{
+    font-weight:bold;
+}
+
+.link{
+    color:blue;
+}
+
+.buttonSearch{
+    padding-left:35px;
+    padding-right:35px;
+    background-color:lightgreen;
+    font-weight:bold;
+}
+
+.smallPicturebox{
+    /*height:230px;*/
+    margin-bottom:10px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+        margin-bottom:25px;
+    }
+}
+
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-text {
+  color: black;
+  font-family:'Comic Sans MS';
+  font-size:15px;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: black;
+  font-family:'Comic Sans MS';
+  font-size:15px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: lightgreen;
+  background-color: transparent;
+}
+.start_puffHeader{
+    color:blue;
+}
+
+.searchBox{
+    margin-left:120px;
+}
+
+/*.searchBox2{
+    width: 800px;
+   
+
+}*/
+
+.breadcrumb{
+    /*padding-left:130px;*/
+    color:transparent;
+}
+
+.breadcrumbSearch{
+    color:transparent !important;
+}
+
+.block1{
+    width:800px;
+    height:700px;
+    background-color:red;
+    /*padding-left:100px;*/
+    margin-left:100px;
+    float:left;
+    border:solid;
+    border-color:grey;
+}
+.block2{
+    width:350px;
+    height:200px;
+    float:left;
+    background-color:blue;
+    margin-left:10px;
+    border-bottom:solid;
+    border-left:solid;
+    border-right:solid;
+    border-color:grey;
+}
+.block3{
+     width:350px;
+    height:490px;
+    float:left;
+    background-color:purple;
+    margin-left:10px;
+    border:solid;
+    margin-top: 10px;
+    border-color:grey;
+}
+
+.block4{
+    width:230px;
+    height:150px;
+    background-color:white;
+    border-bottom:solid thick;
+    border-top:solid thick;
+    float:right;
+    margin-right:20px;
+    margin-top:15px;
+    float:left;
+}
+.block5{
+    width:480px;
+    height:500px;
+    margin-top:15px;
+    margin-left:30px;
+    float:left;
+    background-color:pink;
+    margin-right:20px;
+
+}
+
+.block6{
+    width:350px;
+    height:50px;
+    background-color:red;
+    float:left;
+    margin-left:10px;
+    border-left:solid;
+    border-right:solid;
+    border-top:solid;
+    border-color:grey;
+}
+
+.block7{
+    
+    width:740px;
+    height:50px;
+    background-color:lightgray;
+    float:left;
+    margin-top:100px;
+    margin-left:30px;
+    border:solid;
+    border-color:darkgray;
+}
+
+.rubrik1{
+    font-weight:bold;
+    font-size:25px;
+    margin-left:30px;
+}
+
+.underRubrik1{
+    font-size:15px;
+    margin-left:30px;
+    margin-top:15px;
+    margin-right:30px;
+}
+
+.rubrik2{
+    font-size:25px;
+    margin-left:30px;
+    /*margin-top:35px;*/
+    margin-right:30px;
+    color: white;
+}
+
+.rubrik3{
+    font-weight:bold;
+    font-size:20px;
+    margin-left:30px;
+    margin-top:10px;
+}
+
+.a1{
+    font-size:20px;
+}
+
+.text1{
+     font-size:13px;
+    margin-left:30px;
+    margin-top:15px;
+    margin-right:30px;
+}
+.ikon1{
+    margin-left:30px;
+}
+
+.kolumn1{
+    border: solid thin;
+    border-color:lightgrey;
+}
+
+#pricebox{
+    background-color:red;
+    color:white;
+}
+.knapp1{
+    background-color:lightgrey;
+}
+.knapp2{
+  background-color:grey;
+  margin-right:30px;
+  float:right;
+}
+
+/*-------------css för sök-----------*/
+
+.grayHead {
+	border-radius:4px;
+	background:#f1f1f1;
+	margin-bottom:2%;
+	}
+
+.colorSearch{
+    color:blue;
+}
